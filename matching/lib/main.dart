@@ -27,7 +27,7 @@ class ImagePage extends StatefulWidget {
 class _ImagePageState extends State<ImagePage> {
   // var rnd = Random().nextInt(9);
   int leftImageNumber = 1;
-  int rightImageNumber = 1;
+  int rightImageNumber = 3;
 
   // ignore: non_constant_identifier_names
   void ImageRandom() {
